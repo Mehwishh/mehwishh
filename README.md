@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **python**
 
-- ⚡ Fun fact **I am curious**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
